@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab3.3 to 3.2</string>
+    <string name="flag">Bendera</string>
+    <string name="age">Umur</string>
+    <string name="gender">Jantina</string>
+    <string name="male">Lelaki</string>
+    <string name="female">Perempuan</string>
+    <string name="smoker">Perokok?</string>
+    <string name="premium">Premium:</string>
+    <string name="calculate">Kira</string>
+    <string name="reset">Reset</string>
+    <string-array name="age_group">
+        <item>Less than 5</item>
+        <item>6 higga 10</item>
+        <item>11 higga 16</item>
+        <item>17 higga 21</item>
+        <item>22 higga 30</item>
+        <item>31 higga 40</item>
+        <item>41 higga 50</item>
+        <item>More than 50</item>
+    </string-array>
+</resources>
